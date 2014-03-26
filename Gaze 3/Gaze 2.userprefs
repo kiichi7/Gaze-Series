@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GUIDisplay.js">
+    <Files>
+      <File FileName="Assets\Scripts\GUIDisplay.js" Line="38" Column="103" />
+      <File FileName="Assets\Scripts\MeOut.js" Line="11" Column="2" />
+      <File FileName="Assets\Scripts\PositionJudgment.js" Line="9" Column="63" />
+      <File FileName="Assets\Inpla\Inpla.js" Line="15" Column="44" />
+      <File FileName="Assets\Scripts\CreatEyeball.js" Line="13" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
